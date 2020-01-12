@@ -18,12 +18,14 @@ organizations:
   url: "https://www.ucdavis.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, artificial intelligence, and machine learning with an emphasis on deep learning.
 
 interests:
 - Deep Learning
 - Machine Learning
 - Artificial Intelligence
+- Causal Inference
+- Robotics
 
 education:
   courses:
@@ -67,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-Kenneth is a recent graduate from Brigham Young University-Hawaii. Currently, He is pursuing a M.S. in Statistics at UC Davis. His research interests lie in machine learning with an emphasis on deep learning.
+Kenneth is a recent graduate from Brigham Young University-Hawaii. Currently, he is pursuing a M.S. in Statistics at UC Davis. His research interests lie in machine learning with an emphasis on deep learning.
 
-One of his future goals is to establish an AI-driven automated restaurant that can deliver fresh food at low cost to all the people. In his spare time, he likes reading books, cooking, hiking, and traveling. Above all, he loves learning new things. His recent favorite book is Causality: Models, Reasoning and Inference by Judea Pearl.
+One of his future goals is to establish an AI-driven automated restaurant that can deliver fresh food at a low price. In his spare time, he likes reading books, cooking, hiking, and traveling. Above all, he loves learning new things. His recent favorite book is Causality: Models, Reasoning and Inference by Judea Pearl.
